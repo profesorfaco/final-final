@@ -42,28 +42,28 @@ Indique las bases de datos que utilizará.
 
 Describa lo que ofrecerá, acaso una infografía o un dashboard. 
 
-Agregue a continuación 3 referentes y un mooadboard de referentes. 
+Agregue a continuación 3 antecedentes y un mooadboard de referentes. 
 
-#### Referente 1: Nombre con link
+#### Antecedente 1: Nombre con link
 
 Pantallazo.
 
 Describa lo positivo a rescatar y, si fuese posible, lo negativo a evitar.
 
-#### Referente 2: Nombre con link
+#### Antecedente 2: Nombre con link
 
 Pantallazo. 
 
 Describa lo positivo a rescatar y, si fuese posible, lo negativo a evitar.
 
-#### Referente 3: Nombre con link
+#### Antecedente 3: Nombre con link
 
 Pantallazo. 
 
 Describa lo positivo a rescatar y, si fuese posible, lo negativo a evitar.
 
 
-#### Moodboard
+#### Moodboard de Referentes
 
 Pegué aquí una imagen que recopile aquello que puede inspirar, desde algún lugar improbable, novedad en su propuesta.
 
